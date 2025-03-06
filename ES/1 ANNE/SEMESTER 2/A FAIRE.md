@@ -1,0 +1,5 @@
+- [ ] Etude de cas Gestion IT GLPI
+- [ ] Exercices Programmation Analyse
+- [ ] Recherche Plein Texte SQL
+- [ ] Activité 03 Gestion des permissions
+- [ ] CCNA Refaire les questionnaires
