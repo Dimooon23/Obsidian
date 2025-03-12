@@ -4,37 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a51f6a5acaab5b",
+        "id": "7f73b7ff43c1ef57",
         "type": "tabs",
         "children": [
           {
-            "id": "a71e77ff277b81fa",
+            "id": "d8bbf46daa46dce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test/Problème 1.md",
+                "file": "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS1 - 29.01.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problème 1"
+              "title": "CRS1 - 29.01.25"
             }
           },
           {
-            "id": "1d6bf590f896b780",
+            "id": "39e3866c058547f4",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "ES/1 ANNE/SEMESTRE 1"
+                "file": "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMESTRE 1"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0838610c0c26b804",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +99,7 @@
             }
           },
           {
-            "id": "1d8c7e3e6aac3990",
+            "id": "26c45b9abe38ec33",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "10300c26fa6d7099",
@@ -203,56 +214,57 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "card-board:CardBoard": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1d8c7e3e6aac3990",
+  "active": "d8bbf46daa46dce2",
   "lastOpenFiles": [
-    "Vault.md",
-    "ES/DOCUME~1/SEMEST~1/ANGLAIS/B1vocNEW24-25.pdf",
-    "ES/DOCUME~1/SEMEST~1/ANGLAIS",
-    "README.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS2 - 05.02.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS7 - 04.03.2025.md",
     "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS 4 19.02.2025.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS1 - 29.01.25.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/COMMANDES_CISCO1.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test/Problème 1.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test/Problème 2.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test/Test.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CCNA2.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Untitled.canvas",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CCNA 2 Modules 5 - 6 .md",
     "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Untitled.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Commandes_Resume.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/LABO_JAGGI/COMMANDES_CISCO.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS3 - 11.02.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS1 - 28.01.25.md",
     "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS2 - 04.02.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS3 - 11.02.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS4 - 18.02.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Commandes_Resume.md",
     "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/REVISIONS.md",
     "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CCNA 2.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Sans titre 2.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS4 - 18.02.25.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/CRS1 - 28.01.25.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Projet/horaire.analyse.wiki/Analyse-Utilisateur-Fineaux.md",
-    "ES/DOCUMENTS/SEMESTER2/CCNA2/Pasted image 20250303214316.png",
-    "ES/1 ANNE/SEMESTRE 1/INFORMATIQUE/SYSTEM/00 SYSTEM.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/GESTION IT/CRS2 - 06.02.25.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Projet/horaire.analyse.wiki/home.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Projet/horaire.analyse.wiki/Utilisateurs.md",
-    "_TOC_.md",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Projet/horaire.analyse.wiki",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Projet",
-    "ES/DOCUMENTS/SEMESTER1/ANGLAIS/Complete Preliminary Student's Book -- Emma Heyderman and Peter May -- 1, 2, 2020 -- Cambridge -- 1e58d2bb9caa84682ef81a89b2a9c68e -- Anna’s Archive-1.pdf",
-    "ES/DOCUMENTS/SEMESTER2/UNIX",
-    "ES/DOCUMENTS/SEMESTER2/UNIX/LVM02.png",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/AFAIRE",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/intdb.wiki/intdb.wiki",
-    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/LABO_JAGGI",
-    "s_Cisco_Boot_Sequence.png",
-    "s_Cisco boot-sequence.png",
-    "ES/DOCUMENTS/SEMESTER1/BASE DE DONNES/th-1796179634.jpg",
-    "ES/DOCUMENTS/SEMESTER1/CCNA/Pasted image 20241012120205.png",
-    "ES/DOCUMENTS/SEMESTER1/CCNA/Pasted image 20241012121339.png",
-    "ES/DOCUMENTS/SEMESTER1/CCNA/Pasted image 20241010171853.png",
-    "Pasted image 20240924084224.png"
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/COMMANDES_CISCO1.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Test/Test.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/ORGANISATION IT/ORGANISATION IT.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/ORGANISATION IT/Chapitre 8.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/Sécurité/CRS7 - 10.03.25.md",
+    "ES/DOCUMENTS/SEMESTER2/Sécurité/Pasted image 20250310120044.png",
+    "ES/DOCUMENTS/SEMESTER2/Sécurité/Pasted image 20250310113203.png",
+    "ES/DOCUMENTS/SEMESTER2/Sécurité/Pasted image 20250310112310.png",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/Sécurité/CRS1 - 27.01.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/Sécurité/CRS7 - 10.03.25/Untitled.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/Sécurité/CRS2 - 03.02.25.md",
+    "ES/1 ANNE/SEMESTRE 1/INFORMATIQUE/CCNA_BASE/COURS 13.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/Sécurité/CRS7 - 10.03.25",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/CRS5 - 07.3.2025.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/mld-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/do-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/CRS1 - 31.01.25.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/UNIX/CRS1 - 29.01.25.md",
+    "ES/DOCUMENTS/SEMESTER2/BASE DE DONNES/Pasted image 20250307160933.png",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/intdb.wiki/intdb.wiki/Synthese-LIKE,-SIMILAR-TO,-REGEX.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/intdb.wiki/intdb.wiki/La-recherche-plein-texte.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/mcd-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/mld-genealogie.uxf",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/mcd-genealogie.uxf",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/do-genealogie.uxf",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse/analyse.md",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/analyse",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/scripts/script.sh",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/scripts/script.psql",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/scripts/003-insertData.sql",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/scripts/004-requetes.sql",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/scripts/001-dropTables.sql",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/intprog1db-210-modelisation-genealogie-master/analyse/mcd-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/intprog1db-210-modelisation-genealogie-master/analyse/mld-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/BASE_DONNE/Cours/Exercices Arbre Geologique/intprog1db-210-modelisation-genealogie-master/analyse/do-genealogie.svg",
+    "ES/1 ANNE/SEMESTER 2/INFROMATIQUE/CCNA2/Untitled.canvas"
   ]
 }
